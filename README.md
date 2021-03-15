@@ -1,5 +1,13 @@
 # EpitechDashboard
+
 Coding Academy learn github
 
 Learn git push
-new branch
+
+MP
+Nor
+Sandra
+
+This is Max comment
+
+This is Jose Comment
